@@ -10,7 +10,7 @@
 - ⚡ Hobbies: Gosto de esportes, games, cinema, música e pets
 
 
-### Conecte-se comigo:
+## Conecte-se comigo:
 
 [<img align="left" alt="gxavierfaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="guilherme-xavier-de-faria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -19,7 +19,7 @@
 
 
 
-### Stacks:
+## Stacks:
 
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -41,7 +41,7 @@
 
 
 
-### 📺 Canais que sigo e recomento:
+## 📺 Canais que sigo e recomendo
 
 
 - [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
@@ -57,7 +57,7 @@
 
 ---
 
-### 📕 Podcasts
+## 📕 Podcasts
 
 
 - [Hipsters Ponto Tech](https://hipsters.tech/)
@@ -71,7 +71,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-### <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+## <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 [![newh2 github stats](https://github-readme-stats.vercel.app/api?username=newh2&show_icons=true&theme=radical)](https://github.com/newh2/)
 
