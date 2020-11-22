@@ -9,6 +9,7 @@
 - 🥅 2020 Goals: Melhorar meu conhecimento em desenvolvimento e ajudar as pessoas
 - ⚡ Hobbies: Gosto de esportes, games, cinema, música e pets
 
+---
 
 ## Conecte-se comigo:
 
@@ -17,7 +18,7 @@
 [<img align="left" alt="guixavierfaria | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-
+---
 
 ## Stacks:
 
@@ -39,7 +40,7 @@
 <img align="left" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 
-
+---
 
 ## 📺 Canais que sigo e recomendo
 
