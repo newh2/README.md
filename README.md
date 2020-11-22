@@ -9,7 +9,8 @@
 - 🥅 2020 Goals: Melhorar meu conhecimento em desenvolvimento e ajudar as pessoas
 - ⚡ Hobbies: Gosto de esportes, games, cinema, música e pets
 
----
+
+<br></br>
 
 ## Conecte-se comigo:
 
@@ -39,8 +40,7 @@
 <img align="left" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 
-
-
+<br></br>
 
 ## 📺 Canais que sigo e recomendo
 
@@ -56,7 +56,7 @@
 - [(Canal DotNet)](https://www.youtube.com/c/CanalDotNET)
 
 
----
+<br></br>
 
 ## 📕 Podcasts
 
