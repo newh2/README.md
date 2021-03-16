@@ -4,7 +4,7 @@
 
 ## Sou estudante, programador e amante dos animais!!
 
-- 🌱 Atualmente aprendo um pouco de tudo 🤣
+- 🌱 Atualmente aprendo sobre Angular
 - 👯 Espero colaborar com outros desenvolvedores, ajudar é sempre bom
 - 🥅 2020 Goals: Melhorar meu conhecimento em desenvolvimento e ajudar as pessoas
 - ⚡ Hobbies: Gosto de esportes, games, cinema, música e pets
