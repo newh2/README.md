@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre React e C#, .NET Core & , .Net
 - 👯 Espero colaborar com outros desenvolvedores, ajudar é sempre bom
-- 🥅 2020 Goals: Melhorar meu conhecimento em desenvolvimento e ajudar as pessoas
+- 🥅 2021 Goals: Melhorar meu conhecimento em desenvolvimento e ajudar as pessoas
 - ⚡ Hobbies: Gosto de esportes, games, cinema, música e pets
 
 
