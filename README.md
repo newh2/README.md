@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre React e C#, .NET Core & , .Net
 - 👯 Espero colaborar com outros desenvolvedores, ajudar é sempre bom
-- 🥅 2021 Goals: Melhorar meu conhecimento em desenvolvimento e ajudar as pessoas
+- 🥅 Membro da comunidade https://github.com/he4rt 
 - ⚡ Hobbies: Gosto de esportes, games, cinema, música e pets
 
 
@@ -45,10 +45,8 @@
 ## 📺 Canais que sigo e recomendo
 
 
-- [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - [Dev Aprenter - Aulas/Cursos grátis no youtube](https://www.youtube.com/c/DevAprender)
 - [Curso em vídeo, Gustavo Guanabara](https://www.youtube.com/user/cursosemvideo)
-- [Rocketseat - Conteúdo vasto sobre tecnologia, desenvolvimento pessoal e profissional](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Tutorias sobre os sitemas Benner (Com qual trabalho hoje)](https://www.youtube.com/channel/UCVp7hIFIybiNzqSCZ3Xow3w)
 - [(Programador BR)](youtube.com/c/Programadorbr)
 - [(Google Chrome Developers)](https://www.youtube.com/c/GoogleChromeDevelopers)
@@ -81,3 +79,8 @@
 [twitter]: https://twitter.com/gxavierfaria
 [instagram]: https://instagram.com/guixavierfaria
 [linkedin]: https://www.linkedin.com/in/guilherme-xavier-de-faria/
+
+Badges:
+[![@gaxfaria's Holopin board](https://holopin.io/api/user/board?user=gaxfaria)](https://holopin.io/@gaxfaria)
+
+
