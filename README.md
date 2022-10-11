@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Guilherme -  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/gxavierfaria?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gxavierfaria)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gxavierfaria?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/GuiXavierFaria)
 
 ## Sou estudante, programador e amante dos animais!!
 
