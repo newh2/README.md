@@ -4,7 +4,8 @@
 
 ## Sou estudante, programador e amante dos animais!!
 
-- 🌱 Atualmente estou aprendendo sobre React e C#, .NET Core & , .Net
+- 🌱 Possuo experiência de 5 anos em e C#, .Net
+- 🌱   Atualmente trabalho com C#, .NET, Asp.Net, NodeJs, React
 - 👯 Espero colaborar com outros desenvolvedores, ajudar é sempre bom
 - 🥅 Membro da comunidade https://github.com/he4rt 
 - ⚡ Hobbies: Gosto de esportes, games, cinema, música e pets
